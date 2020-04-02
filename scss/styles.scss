@@ -34,12 +34,12 @@
 */
 
 // Define base and accent colors
-$base-color: #ffd1dc;
+$base-color: #ff6f91;
 $base-color-hover: darken($base-color, 10%);
 
 // Define background colors
 $background: #fff;
-$background-alt: #f2f2f5;
+$background-alt: #ffe5eb;
 
 // Define border colors
 $border: #dcd9d9;
@@ -85,7 +85,7 @@ $text: #74808a;
 */
 
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
 
   &.active {
